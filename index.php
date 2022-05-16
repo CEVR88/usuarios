@@ -1,3 +1,3 @@
-<?php include 'php/header.php'; ?>
-<?php include 'php/login.php'; ?>
-<?php include 'php/footer.php'; ?>
+<?php include 'php/templates/header.php'; ?>
+<?php include 'php/templates/login.php'; ?>
+<?php include 'php/templates/footer.php'; ?>
